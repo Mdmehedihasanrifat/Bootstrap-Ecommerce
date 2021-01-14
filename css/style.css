@@ -5,3 +5,42 @@
 .nav-item{
     margin-right: 30px;
 }
+
+
+.Custom-font{
+
+    font-size: 4em;
+    font-weight: bold;
+}
+
+.card-class{
+
+    border: none;
+    height: 80%;
+    border-radius: 5%;
+
+    width: 80%;
+    background: #9d9595;
+
+}
+.img{
+
+
+    width: 100%;
+    padding: 10%;
+    height: 100%;
+   display: block;
+
+    margin: auto;
+}
+
+.w-80{
+    width: 90%;
+}
+.card-f{
+
+    border: none;
+    font-size: 4em;
+    font-weight:bold;
+    color: #f3f306;
+}
