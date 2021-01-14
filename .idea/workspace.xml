@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d5a9823f-181d-4aec-bd90-2585710946eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logo, Icon/Group 33072.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logo, Icon/Group 33091.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logo, Icon/Group 33102.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logo, Icon/XMLID 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logo, Icon/green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logo, Icon/image 12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logo, Icon/image 13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logo, Icon/image 14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logo, Icon/shopping-cart 1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -59,7 +50,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610617521508</updated>
-      <workItem from="1610617605813" duration="13037000" />
+      <workItem from="1610617605813" duration="13970000" />
+      <workItem from="1610634171091" duration="718000" />
     </task>
     <servers />
   </component>
@@ -76,5 +68,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
